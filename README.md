@@ -1,2 +1,4 @@
-# bitcoin_coursera
-Coursera Bitcoin and Cryptocurrency Tech - Python version
+# Coursera Bitcoin and Cryptocurrency Tech - Python version
+Scrooge Coin
+
+
